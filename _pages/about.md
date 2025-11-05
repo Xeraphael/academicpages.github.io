@@ -12,26 +12,22 @@ I'm a incoming Ph.D. student jointly at [Shanghai Artificial Intelligence Labora
 
 ## News
 
-- [10/2025] One paper was accepted by Nature.
-- [05/2025] One paper was accepted by PRL as Featured in Physics and Editor's Suggestion.
+- [07/2025] One paper was accepted by ECAI.
+- [05/2025] One paper was accepted by IRBM.
 
 ## Education
 
-- Ph.D. Student, College of Computer Science and Artificial Intelligence, Fudan University, 2024 – Present
-- M.Phil., School of Science and Engineering, The Chinese University of Hong Kong (Shenzhen), 2021 – 2023
-- Bachelor, School of Information Engineering, Zhengzhou University, 2017 – 2021
+- Undergraduate Student, School of Computer Science and Central South University, 2022 – Present
 
 ## Experience
 
-- Research Intern, Shanghai Artificial Intelligence Laboratory, 2023 – 2025
-- Visiting Student, CAD&CG Laboratory, Zhejiang University, 2022 – 2023
+- Research Intern, Shanghai Artificial Intelligence Laboratory, 2025 – Present
 
 ## Honors
 
-- Fudan University Outstanding Student Award (2025)
+- National Scholarship (2025)
 
 ## Something else
 
-- Hobbies: Music (esp. Taylor Swift; Bruce Liang); literary reading and composition; anime; cooking
-- Research companions: [Kaining Ying](https://kainingying.github.io), [Shaohao Rui](https://shaohao011.github.io), and more.
+- Hobbies: Go (Weiqi); Valorant
 
