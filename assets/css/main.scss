@@ -41,3 +41,35 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Compact homepage overrides */
+.homepage-compact {
+  .page__content {
+    line-height: 1.45;
+  }
+
+  h2 {
+    margin: 1.2em 0 0.4em;
+    font-size: 1.125em;
+  }
+
+  p {
+    margin-bottom: 0.75em;
+  }
+
+  ul,
+  ol {
+    margin-top: 0.25em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  /* tighten section spacing */
+  h2 + p,
+  h2 + ul,
+  h2 + ol {
+    margin-top: 0.25em;
+  }
+}
