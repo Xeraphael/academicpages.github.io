@@ -23,7 +23,7 @@ repository               : "Xeraphael/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myimage.jpg"
   name             : "Chenxi Li 李晨希"
   bio              : " "
   location         : "Shanghai"
