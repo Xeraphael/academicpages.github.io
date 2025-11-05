@@ -25,12 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chenxi Li 李晨希"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Shanghai"
+  email            : "lichenxi@pjlab.org.cn" 
 
   # Academic websites
   academia         : # URL
