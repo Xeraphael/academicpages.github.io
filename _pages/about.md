@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: homepage-compact
 ---
 
 - I'm a incoming Ph.D. student jointly at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) and [School of Computer Science and Technology](http://www.cs.zju.edu.cn/)@[Zhejiang University](https://www.zju.edu.cn/), advised by Prof. [Dongzhan Zhou](https://scholar.google.com/citations?user=Ox6SxpoAAAAJ&hl=en&oi=ao).
