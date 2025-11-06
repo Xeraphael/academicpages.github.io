@@ -8,5 +8,3 @@ date: 2025-04-28
 venue: 'International Journal of Pattern Recognition and Artificial Intelligence'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S195903182500017X'
 ---
-
-![](/images/myimage.jpg)
